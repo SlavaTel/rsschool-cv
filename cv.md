@@ -16,3 +16,8 @@
 ## 4. Education:
 * *Udemy*
 * *JS Bootcamps*
+
+## 5. English:
+* *B1*
+
+## 6. [Github](https://github.com/SlavaTel)
